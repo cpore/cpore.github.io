@@ -33,13 +33,13 @@ author: "Casey Pore"
 title: "{ Casey Pore }"
 description: "Blog and website of Casey Pore, blogging mainly for tech. Opinions expressed are mine."
 keywords: "casey, pore"
-favicon: "/img/icon16.ico"
+favicon: "/img/icon32.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/icon16.ico"
+black-favicon: "/img/icon32.ico"
 
 background-img: "../img/DeathtoStock_Wired3.jpg"
 
