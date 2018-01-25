@@ -30,9 +30,9 @@ force-https: True
 
 lang: "en"
 author: "Casey Pore"
-title: "{ \"Casey_Pore\":\"Software_Engineer\" }"
+title: "{ Casey Pore }"
 description: "Blog and website of Casey Pore, blogging mainly for tech. Opinions expressed are mine."
-keywords: "casey, pore"
+keywords: "casey, pore, casey pore"
 favicon: "/img/icon16.ico"
 
 ################
@@ -48,15 +48,16 @@ background-img: "../img/eniac_dark.jpg"
 ##############################
 
 dynamic-typing: True
-shuffle: True # Shuffle the lines.
+shuffle: False # Shuffle the lines.
 loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
+loop-count: 1 # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "We reject: kings, presidents and voting."
-  - text: "We believe in: rough consensus and running code. -David D. Clark"
+  - text: "We reject:\nkings, presidents and voting.\n"
+  - text: "We believe in:\nrough consensus and running code.\n-David D. Clark"
+  - text: "Casey Pore: Software Engineer\n\n"
 
 #me-img: "/img/jetpacktocat.png"
 
