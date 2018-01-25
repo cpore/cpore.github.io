@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Casey Pore"
-title: "{ Casey Pore }"
+title: "{ "Casey_Pore":"Software_Engineer" }"
 description: "Blog and website of Casey Pore, blogging mainly for tech. Opinions expressed are mine."
 keywords: "casey, pore"
 favicon: "/img/icon16.ico"
