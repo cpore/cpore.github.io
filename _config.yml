@@ -33,13 +33,13 @@ author: "Casey Pore"
 title: "{ Casey Pore }"
 description: "Blog and website of Casey Pore, blogging mainly for tech. Opinions expressed are mine."
 keywords: "casey, pore"
-favicon: "/img/favicon.ico"
+favicon: "/img/icon16.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/favicon.ico"
+black-favicon: "/img/icon16.ico"
 
 background-img: "../img/DeathtoStock_Wired3.jpg"
 
@@ -171,7 +171,7 @@ social:
   - title: "github"
     url: "https://cpore.github.com/"
   - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: ""
   - title: "rss"
     url: "/feed.xml"
 
