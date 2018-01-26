@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/caseypore
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.caseypore.com
+  * I am caseypore (https://keybase.io/caseypore) on keybase.
+  * I have a public key ASD0nMyLsgMpIunZIVz4_5OeYyyi0WaAUMHV6-X0fBIQlgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205ecbe8b70b49b9438b6a5c72f69680be187322721cc8b83bb511c7f8fc5108d70a",
+      "host": "keybase.io",
+      "kid": "0120f49ccc8bb2032922e9d9215cf8ff939e632ca2d1668050c1d5ebe5f47c1210960a",
+      "uid": "d3dd85d80aa5b6380a74493982916519",
+      "username": "caseypore"
+    },
+    "merkle_root": {
+      "ctime": 1517002315,
+      "hash": "0c4652332b23599d666c10d1b7f24259ce4ebb980d61ed857c20a5590f82adf15d55667ca702a4db4eeca682591d9ad45924ff05b4d3b404a316461aa5119c40",
+      "hash_meta": "bedfee9f6efb48e706d69cfd45950da2aa7e714fbbbc29f407547c446178bb13",
+      "seqno": 1988756
+    },
+    "service": {
+      "hostname": "www.caseypore.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.40"
+  },
+  "ctime": 1517002329,
+  "expire_in": 504576000,
+  "prev": "517e974d2c50e0c23f46198b051be929606f73b22bdfb61e97538064ac19aabd",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9JzMi7IDKSLp2SFc+P+TnmMsotFmgFDB1evl9HwSEJYKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWVjYmU4YjcwYjQ5Yjk0MzhiNmE1YzcyZjY5NjgwYmUxODczMjI3MjFjYzhiODNiYjUxMWM3ZjhmYzUxMDhkNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjQ5Y2NjOGJiMjAzMjkyMmU5ZDkyMTVjZjhmZjkzOWU2MzJjYTJkMTY2ODA1MGMxZDVlYmU1ZjQ3YzEyMTA5NjBhIiwidWlkIjoiZDNkZDg1ZDgwYWE1YjYzODBhNzQ0OTM5ODI5MTY1MTkiLCJ1c2VybmFtZSI6ImNhc2V5cG9yZSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNzAwMjMxNSwiaGFzaCI6IjBjNDY1MjMzMmIyMzU5OWQ2NjZjMTBkMWI3ZjI0MjU5Y2U0ZWJiOTgwZDYxZWQ4NTdjMjBhNTU5MGY4MmFkZjE1ZDU1NjY3Y2E3MDJhNGRiNGVlY2E2ODI1OTFkOWFkNDU5MjRmZjA1YjRkM2I0MDRhMzE2NDYxYWE1MTE5YzQwIiwiaGFzaF9tZXRhIjoiYmVkZmVlOWY2ZWZiNDhlNzA2ZDY5Y2ZkNDU5NTBkYTJhYTdlNzE0ZmJiYmMyOWY0MDc1NDdjNDQ2MTc4YmIxMyIsInNlcW5vIjoxOTg4NzU2fSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5jYXNleXBvcmUuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40MCJ9LCJjdGltZSI6MTUxNzAwMjMyOSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI1MTdlOTc0ZDJjNTBlMGMyM2Y0NjE5OGIwNTFiZTkyOTYwNmY3M2IyMmJkZmI2MWU5NzUzODA2NGFjMTlhYWJkIiwic2Vxbm8iOjE1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQMiPJ/2nGxYmoGaWQOet2wSPyfs5S0/UuwcILOI00W1Po6aoN3f6/EDDyPthrLPqKIgTi0+ZOIiq7laaGcOPBgmoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBkdtVnpalG0+mV3myTwG0qKt+/FOTI3hjSqxkV1cyNx6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/caseypore
+
+==================================================================
