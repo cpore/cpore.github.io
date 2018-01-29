@@ -178,7 +178,7 @@ a {
         }
         .intro-text {
             font-size: 18px;
-            height: 38px
+            height: 38px;
             @if $navbar-text-shadow {
                 text-shadow: 1px 0 1px #000;
             }
@@ -193,7 +193,7 @@ a {
             }
             .intro-text {
                 font-size: 26px;
-                height: 54px
+                height: 54px;
             }
         }
     }
