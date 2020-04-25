@@ -147,7 +147,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-url: "https://www.linkedin.com/in/casey-pore-8487a665/"
+#email: blahblah@blah.com
 
 ################
 # Author Blurb #
@@ -168,7 +168,7 @@ social:
   - title: "linkedin"
     url: "https://www.linkedin.com/in/casey-pore-8487a665/"
 #  - title: "facebook"
-#    url: "https://facebook.com/caseypore1"
+#    url: "https://facebook.com/username"
 #  - title: "twitter"
 #    url: "https://twitter.com/"
   - title: "github"
