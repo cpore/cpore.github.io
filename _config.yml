@@ -157,8 +157,8 @@ timeline-img: "/img/timeline/default.png"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Casey Pore is a Software Engineer where he works on two-dimensional engineering projects. In his spare time, Casey likes to eat cotton candy."
-author_blurb_image: "https://secure.gravatar.com/avatar/dcad4c13f4752b4b2ebb405a176c6ca6?s=150"
+#author_blurb: "Casey Pore is a Software Engineer where he works on two-dimensional engineering projects. In his spare time, Casey likes to eat cotton candy."
+#author_blurb_image: "https://secure.gravatar.com/avatar/dcad4c13f4752b4b2ebb405a176c6ca6?s=150"
 
 ##################
 # Social Buttons #
